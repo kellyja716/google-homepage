@@ -1,0 +1,18 @@
+#main {
+	height: 233px;
+	margin-top: 89px;
+	display: inline-block;
+	position: relative;
+}
+
+#logo {
+	position: fixed;
+	left: 50%;
+	transform: translate(-50%);
+}
+
+#searchArea {
+	width: 570px;
+	height: 35px;
+}
+
